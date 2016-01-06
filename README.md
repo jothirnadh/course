@@ -34,6 +34,8 @@
  - [Chloropleth](https://en.wikipedia.org/wiki/Choropleth_map)
  - [Cartogram](https://en.wikipedia.org/wiki/Cartogram)
  - [Topological](https://en.wikipedia.org/wiki/Topological_map)
+ - [Animated maps](https://vimeo.com/9182869)
+ - [Interactive maps](http://osm-in.github.io/flood-map/chennai.html#11/13.0000/80.2000)
 - Map symbology 
  - [Ordanace Survey symbol sheets](https://www.ordnancesurvey.co.uk/resources/maps-and-geographic-resources/map-symbols.html)
  - Data abstraction 
